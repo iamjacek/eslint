@@ -6,3 +6,4 @@ Tools You need to install:
 - eslint-plugin-import
 - eslint-plugin-jsx-a11y
 - eslint-plugin-react
+- eslin-plugin-react-hooks
